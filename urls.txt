@@ -1,0 +1,34 @@
+## APIS
+-------
+
+https://dzone.com/articles/7-tips-for-building-an-api
+https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
+https://blog.calsoftinc.com/2017/01/rest-api-security-best-practices.html
+https://www.snyxius.com/restful-api-design-patterns/
+https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
+https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
+
+## PHP ://input
+---------------
+
+php://input
+
+## Laravel
+----------
+
+https://medium.com/@kamerk22/the-smart-way-to-handle-request-validation-in-laravel-5e8886279271
+
+https://www.youtube.com/watch?v=jnvu1GpylP0
+https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx
+https://www.youtube.com/watch?v=U3rPtLW5iuI
+https://www.youtube.com/watch?v=4pc6cgisbKE | https://github.com/bradtraversy/larticles_api
+https://www.youtube.com/watch?v=xjLLr4WQWzw
+https://www.youtube.com/watch?v=EMFBOb6cBBs
+https://www.youtube.com/watch?v=g4BbeHYCR1E
+https://www.youtube.com/watch?v=5Y4STYfvpk4
+
+https://laravel-news.com/podcast
+https://laracasts.com/series/laravel-5-from-scratch
+https://code.tutsplus.com/courses/get-started-with-laravel-5
+https://daylerees.com/codebright/
