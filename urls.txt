@@ -18,7 +18,6 @@ php://input
 ----------
 
 https://medium.com/@kamerk22/the-smart-way-to-handle-request-validation-in-laravel-5e8886279271
-
 https://www.youtube.com/watch?v=jnvu1GpylP0
 https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx
 https://www.youtube.com/watch?v=U3rPtLW5iuI
@@ -32,3 +31,23 @@ https://laravel-news.com/podcast
 https://laracasts.com/series/laravel-5-from-scratch
 https://code.tutsplus.com/courses/get-started-with-laravel-5
 https://daylerees.com/codebright/
+http://www.laravelbestpractices.com/
+https://medium.com/@krissanawat/all-you-need-to-know-about-route-in-laravel-5-ea7b6aebbcaa
+https://quickadminpanel.com/blog/list-of-16-artisan-make-commands-with-parameters/
+
+## WordPress
+------------
+
+https://maddisondesigns.com/2017/05/the-wordpress-customizer-a-developers-guide-part-1/#imagecontrol
+https://codex.wordpress.org/Taxonomies
+
+## CodingStandards
+------------------
+
+https://blog.sideci.com/5-php-coding-standards-you-will-love-and-how-to-use-them-adf6a4855696
+
+
+## Chrome Dev Tools
+-------------------
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/
