@@ -51,3 +51,7 @@ https://blog.sideci.com/5-php-coding-standards-you-will-love-and-how-to-use-them
 -------------------
 
 https://developers.google.com/web/tools/chrome-devtools/javascript/
+
+## Mustache
+-----------
+https://stackoverflow.com/questions/8567413/index-of-an-array-element-in-mustache-js/19693610#19693610
